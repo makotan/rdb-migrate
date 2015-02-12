@@ -1,0 +1,10 @@
+spring:
+    datasource:
+        name: dataSource
+        driver-class-name: org.postgresql.Driver
+        url: jdbc:postgresql://mb_db/ca_example
+        username: ca_example
+        password: ca_example
+
+
+
